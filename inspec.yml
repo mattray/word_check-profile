@@ -1,0 +1,11 @@
+name: word_check
+title: Word Check
+maintainer: Matt Ray
+copyright: Chef Software
+copyright_email: matt@chef.io
+license: Apache-2.0
+summary: Check for restricted words and duplicated lines
+version: 0.1.0
+supports:
+  - os-family: linux
+  - os-family: darwin
